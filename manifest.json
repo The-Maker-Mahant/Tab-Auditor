@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Tab Auditor",
+  "version": "1.0",
+  "description": "Cleaning up the tab mess.",
+  "permissions": ["tabs"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
